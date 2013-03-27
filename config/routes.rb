@@ -1,3 +1,5 @@
 Home::Application.routes.draw do
-  root :to => "home#index"
+  scope "/beta" do
+    root :to => "home#index"
+  end
 end
