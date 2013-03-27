@@ -23,6 +23,10 @@ end
 
 gem 'jquery-rails'
 
+gem 'execjs'
+
+gem 'therubyracer'
+
 gem 'bootstrap'
 
 # To use ActiveModel has_secure_password
