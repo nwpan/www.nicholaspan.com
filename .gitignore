@@ -18,4 +18,4 @@
 
 public/.htaccess
 
-vendor/bundle
+/vendor/bundle
