@@ -19,3 +19,5 @@
 public/.htaccess
 
 /vendor/bundle
+
+.rvmrc
