@@ -5,5 +5,5 @@ require File.expand_path('../application', __FILE__)
 Home::Application.initialize!
 
 if Rails.env.production?
-    ActionController::Base.relative_url_root = "/beta" 
+    ActionController::Base.relative_url_root = "/" 
 end
